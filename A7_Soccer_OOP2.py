@@ -1,14 +1,6 @@
-# Dakota Dowd, IS303
+# Dakota Dowd
 # This game accepts the name of teams in a soccer tournament, as well as how many games, 
 # then outputs randomly assigned scores. At the end, final results are displayed.
-"""
-The goal of this assignment is to combine what you did in the original 
-A4 Women's Soccer assignment (the one asking for inputs and looping 
-through games) with the A5 Women’s Soccer OOP1 assignment, 
-and now use the SoccerTeam class to store the variables for the home team 
-as you’re looping through the games.
-"""
-
 
 import random
 
